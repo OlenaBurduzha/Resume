@@ -1,0 +1,80 @@
+[
+  {
+    "id": "id-4",
+    "profession": "Regional Manager",
+    "company": "Perrigo Ukraine",
+    "time": "April 2019 - Present",
+    "country": "Ukraine",
+    "duties": [
+      {
+        "id": "1",
+        "duty": "Ensuring the implementation of the sales plan in the assigned territory"
+      },
+      {
+        "id": "2",
+        "duty": "Selection, development and motivation of the team. Team mentoring and coaching."
+      },
+      {
+        "id": "3",
+        "duty": "Strengthening the team and sales skills. Implementation of double visits."
+      },
+      {
+        "id": "4",
+        "duty": "Organization, conduct, participation in events to promote the company's drugs. Timely reporting."
+      },
+      {
+        "id": "5",
+        "duty": "Сooperation with key customers in the territory to increase sales."
+      }
+    ],
+    "achievement": "100% implementation of annual individual sales plans (2020, 2021)"
+  },
+  {
+    "id": "id-1",
+    "profession": "Territorial Manager",
+    "company": "L'Oréal Ukraine",
+    "time": "July 2017 - August 2018",
+    "country": "Ukraine",
+    "duties": [
+      {
+        "id": "1",
+        "duty": "Recruitment/training/coordination of sales team."
+      },
+      {
+        "id": "2",
+        "duty": "Сonducting negotiations with regional clients."
+      },
+      {
+        "id": "3",
+        "duty": "Regional development management; implementation of the sales plan for the region."
+      }
+    ],
+    "achievement": "cohesion of the sales departments of 4 regions to the overall highest result(teamwork); increasing sales plans by 15% across the territory entrusted, the winningteam (4 region, 20 people) in the quarterly motivational program"
+  },
+  {
+    "id": "id-2",
+    "profession": "Supervisor",
+    "company": "L'Oréal Ukraine",
+    "time": "October 2015 - June 2017",
+    "country": "Ukraine",
+    "duties": [
+      {
+        "id": "1",
+        "duty": "Organization and coordination of the work of the sales team."
+      },
+      {
+        "id": "2",
+        "duty": "Сooperation with key customers in the territory to increase sales."
+      },
+      {
+        "id": "3",
+        "duty": "Administration and timely reporting; Accrual of Payroll to the sales team."
+      },
+      {
+        "id": "4",
+        "duty": "Implementation of monthly sales plans for the region."
+      }
+    ],
+    "achievement": "increased the company&#39;s turnover by 38%"
+  }
+]

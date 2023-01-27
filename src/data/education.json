@@ -1,0 +1,15 @@
+[
+  {
+    "id": "id-1",
+    "university": "IT School GoIT",
+    "label": "Fullstack Developer",
+    "time": "May 2022 - March 2023",
+    "link": "https://drive.google.com/file/d/1v5HJE0s83hc9_UjdKOk7PQfPS1vMkUen/view"
+  },
+  {
+    "id": "id-2",
+    "university": "Interregional Academy of Personnel Management",
+    "label": "Economics",
+    "time": "Septermber 2021- Present"
+  }
+]

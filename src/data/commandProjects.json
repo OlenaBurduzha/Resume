@@ -1,0 +1,14 @@
+[
+  {
+    "id": "id-1",
+    "label": "Icecream",
+    "link": "https://fredy228.github.io/goit-icecream/",
+    "tech": "HTML5, Sass, JavaScript"
+  },
+  {
+    "id": "id-2",
+    "label": "Filmoteka",
+    "link": "https://smisyuk4.github.io/filmoteka_mriia_goit_project/",
+    "tech": "HTML5, Sass, JavaScript"
+  }
+]

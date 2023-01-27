@@ -1,0 +1,38 @@
+[
+  {
+    "id": "id-1",
+    "label": "GIT"
+  },
+  {
+    "id": "id-2",
+    "label": "HTML5"
+  },
+  {
+    "id": "id-3",
+    "label": "CSS"
+  },
+  {
+    "id": "id-4",
+    "label": "Sass"
+  },
+  {
+    "id": "id-10",
+    "label": "JavaScript"
+  },
+  {
+    "id": "id-5",
+    "label": "React.js"
+  },
+  {
+    "id": "id-11",
+    "label": "Redux"
+  },
+  {
+    "id": "id-6",
+    "label": "TypeScript"
+  },
+  {
+    "id": "id-7",
+    "label": "Node.js"
+  }
+]

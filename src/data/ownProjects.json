@@ -1,0 +1,32 @@
+[
+  {
+    "id": "id-1",
+    "label": "Web Studio",
+    "link": "https://olenaburduzha.github.io/goit-markup-hw-08/",
+    "tech": "HTML5, Sass"
+  },
+  {
+    "id": "id-2",
+    "label": "Image Finder",
+    "link": "https://olenaburduzha.github.io/goit-react-hw-04-images/",
+    "tech": "React.js"
+  },
+  {
+    "id": "id-3",
+    "label": "Timer",
+    "link": "https://olenaburduzha.github.io/Timer-on-JS/",
+    "tech": "JS"
+  },
+  {
+    "id": "id-4",
+    "label": "Movies",
+    "link": "https://olenaburduzha.github.io/goit-react-hw-05-movies/",
+    "tech": "React.js"
+  },
+  {
+    "id": "id-5",
+    "label": "Phonebook",
+    "link": "https://olenaburduzha.github.io/goit-react-hw-06-phonebook/",
+    "tech": "React.js, Redux"
+  }
+]

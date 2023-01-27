@@ -1,0 +1,32 @@
+[
+  {
+    "id": "id-1",
+    "link": "tel:380999728447",
+    "text": "+38 099 972 84 47"
+  },
+  {
+    "id": "id-2",
+    "link": "mailto: maglerb86@gmail.com",
+    "text": "maglerb86@gmail.com"
+  },
+  {
+    "id": "id-3",
+    "link": "https:// /",
+    "text": "Portfolio"
+  },
+  {
+    "id": "id-4",
+    "link": "https://github.com/OlenaBurduzha/",
+    "text": "GitHub"
+  },
+  {
+    "id": "id-5",
+    "link": "https://www.linkedin.com/in/ /",
+    "text": "LinkedIn"
+  },
+  {
+    "id": "id-6",
+    "link": "https://t.me/OlenaBurduzha",
+    "text": "Telegram"
+  }
+]
