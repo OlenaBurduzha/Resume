@@ -11,21 +11,16 @@
   },
   {
     "id": "id-3",
-    "link": "https:// /",
-    "text": "Portfolio"
-  },
-  {
-    "id": "id-4",
     "link": "https://github.com/OlenaBurduzha/",
     "text": "GitHub"
   },
   {
-    "id": "id-5",
-    "link": "https://www.linkedin.com/in/ /",
+    "id": "id-4",
+    "link": "www.linkedin.com/in/olena-burduzha/",
     "text": "LinkedIn"
   },
   {
-    "id": "id-6",
+    "id": "id-5",
     "link": "https://t.me/OlenaBurduzha",
     "text": "Telegram"
   }
