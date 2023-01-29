@@ -10,7 +10,7 @@
   margin-bottom: 10px;
 
   font-weight: 700;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.5;
   color: var(--accentColor);
 }
@@ -21,7 +21,7 @@
 
   font-weight: 700;
   font-size: 14px;
-  line-height: 1.71;
+  line-height: 1.5;
   color: #000000;
   transition: all 250ms var(--timingFn);
 }
@@ -32,8 +32,8 @@
 }
 
 .time {
-  font-size: 12px;
-  line-height: 2;
+  font-size: 14px;
+  line-height: 1.5;
   color: var(--secondaryTextColor);
 }
 

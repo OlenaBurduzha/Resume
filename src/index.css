@@ -1,8 +1,8 @@
 :root {
-  --primaryTextColor: #595959;
-  --secondaryTextColor: #a8a8a8;
+  --primaryTextColor: #000000;
+  --secondaryTextColor: #000000;
   --accentColor: #ff6b08;
-  --boxShadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+  --boxShadow: 5px 9px 20px rgb(49, 46, 46);
   --timingFn: cubic-bezier(0.4, 0, 0.2, 1);
 }
 

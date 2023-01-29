@@ -1,6 +1,6 @@
 [
   {
-    "id": "id-4",
+    "id": "id-2",
     "profession": "Regional Manager",
     "company": "Perrigo Ukraine",
     "time": "April 2019 - Present",
@@ -50,31 +50,5 @@
       }
     ],
     "achievement": "cohesion of the sales departments of 4 regions to the overall highest result(teamwork); increasing sales plans by 15% across the territory entrusted, the winningteam (4 region, 20 people) in the quarterly motivational program"
-  },
-  {
-    "id": "id-2",
-    "profession": "Supervisor",
-    "company": "L'Oréal Ukraine",
-    "time": "October 2015 - June 2017",
-    "country": "Ukraine",
-    "duties": [
-      {
-        "id": "1",
-        "duty": "Organization and coordination of the work of the sales team."
-      },
-      {
-        "id": "2",
-        "duty": "Сooperation with key customers in the territory to increase sales."
-      },
-      {
-        "id": "3",
-        "duty": "Administration and timely reporting; Accrual of Payroll to the sales team."
-      },
-      {
-        "id": "4",
-        "duty": "Implementation of monthly sales plans for the region."
-      }
-    ],
-    "achievement": "increased the company&#39;s turnover by 38%"
   }
 ]

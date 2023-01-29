@@ -3,12 +3,18 @@
     "id": "id-1",
     "label": "Icecream",
     "link": "https://fredy228.github.io/goit-icecream/",
-    "tech": "HTML5, Sass, JavaScript"
+    "title": "Link",
+    "gidHub": "https://github.com/Fredy228/goit-icecream",
+    "tech": "HTML5, Sass, JavaScript",
+    "duty": " Ice company website with responsive layout, burger menu, modal window and attractive design. Role: Developer. Section-How it's made "
   },
   {
     "id": "id-2",
     "label": "Filmoteka",
     "link": "https://smisyuk4.github.io/filmoteka_mriia_goit_project/",
-    "tech": "HTML5, Sass, JavaScript"
+    "title": "Link",
+    "gidHub": "https://github.com/smisyuk4/filmoteka_mriia_goit_project",
+    "tech": "HTML5, Sass, JavaScript",
+    "duty": " Application for choosing a movie. Role: Developer. Filtering movies by genre, release date, rating"
   }
 ]

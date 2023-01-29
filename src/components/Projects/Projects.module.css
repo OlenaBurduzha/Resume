@@ -1,13 +1,6 @@
 .item {
   margin-left: 17px;
-
   font-weight: 700;
-}
-
-.flex {
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
 }
 
 .link {
@@ -18,7 +11,7 @@
 
   font-weight: 400;
   font-size: 14px;
-  line-height: 1.71;
+  line-height: 1.5;
 
   color: var(--primaryTextColor);
   transition: color 250ms var(--timingFn);
@@ -26,17 +19,21 @@
 
 .link:after {
   margin-left: 5px;
-  content: '..............................................................................................................................';
+
 }
 
 .link:hover,
-.link:focus {
+.link:focus{
   color: var(--accentColor);
 }
 
+.text{
+  font-weight: 400;
+    font-size: 14px;
+}
 .name {
   font-weight: 400;
   font-size: 14px;
-  line-height: 1.71;
+  line-height: 1.5;
   color: var(--primaryTextColor);
 }
