@@ -4,7 +4,7 @@ import SoftSkills from '../SoftSkills';
 import PropTypes from 'prop-types';
 import s from './Sidebar.module.css';
 import myPhoto from '../../assets/img/photo.jpg';
-import CV from '../../assets/CV.pdf';
+import CV from '../../assets/CV_BurduzhaO.pdf';
 
 function Sidebar({ contacts, techSkills, softSkills }) {
   return (

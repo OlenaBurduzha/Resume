@@ -4,8 +4,7 @@ import AboutMe from './components/AboutMe';
 import contacts from './data/contacts.json';
 import techSkills from './data/techSkills.json';
 import softSkills from './data/softSkills.json';
-import commandProjects from './data/commandProjects.json';
-import ownProjects from './data/ownProjects.json';
+import projects from './data/projects.json';
 import experience from './data/experience.json';
 import education from './data/education.json';
 
@@ -18,8 +17,7 @@ function App() {
         softSkills={softSkills}
       />
       <AboutMe
-        commandProjects={commandProjects}
-        ownProjects={ownProjects}
+        projects={projects}
         experience={experience}
         education={education}
       />

@@ -16,5 +16,23 @@
     "gidHub": "https://github.com/smisyuk4/filmoteka_mriia_goit_project",
     "tech": "HTML5, Sass, JavaScript",
     "duty": " Application for choosing a movie. Role: Developer. Filtering movies by genre, release date, rating"
+  },
+  {
+    "id": "id-3",
+    "label": "Movies",
+    "link": "https://olenaburduzha.github.io/goit-react-hw-05-movies/",
+    "title": "Link",
+    "gidHub": "https://github.com/OlenaBurduzha/goit-react-hw-05-movies",
+    "tech": "React.js(Hooks, Routers, React.lazy)",
+    "duty": "Movie search and storage application"
+  },
+  {
+    "id": "id-4",
+    "label": "Phonebook",
+    "link": "https://olenaburduzha.github.io/goit-react-hw-06-phonebook/",
+    "title": "Link",
+    "gidHub": "https://github.com/OlenaBurduzha/goit-react-hw-06-phonebook",
+    "tech": "React.js, Redux, Redux Toolkit",
+    "duty": "A simple phonebook  - you can register, log in, add, remove or filter contacts, log out."
   }
 ]
