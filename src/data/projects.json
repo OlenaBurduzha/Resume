@@ -33,6 +33,6 @@
     "title": "Link",
     "gidHub": "https://github.com/OlenaBurduzha/goit-react-hw-06-phonebook",
     "tech": "React.js, Redux, Redux Toolkit",
-    "duty": "A simple phonebook  - you can register, log in, add, remove or filter contacts, log out."
+    "duty": "A phonebook  - you can register, log in, add, remove or filter contacts, log out."
   }
 ]
